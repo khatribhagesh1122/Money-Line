@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan to update the Monthly, Weekly, Daily, and 1-Hour Trend formulas across the Intraday Screener and 7-Parameter Stock Modal to use the confirmed two-candle lookback rule: Previous Candle (T-1) Close vs Previous-1 Candle (T-2) Open combined with Current Price (CMP) vs Previous Candle (T-1) Close.",
+  "updatedAt":  "2026-11-09T18:40:05.617166556Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

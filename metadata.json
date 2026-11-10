@@ -1,0 +1,6 @@
+{
+  "name": "MONEY LINE",
+  "description": "High-performance Indian stock market terminal for intraday and options traders with live Upstox & Yahoo feeds, algorithmic BUY/SELL CALL/PUT recommendations, results calendar, and multi-timeframe screeners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
